@@ -1,0 +1,1 @@
+## Resoluções do Beecrowd utilizando as linguagens C, C++ e Python, seguindo o meu progresso durante a carreira de programador ##
